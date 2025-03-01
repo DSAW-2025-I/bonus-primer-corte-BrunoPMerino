@@ -2,6 +2,7 @@
 # Lista de Tareas
 
 Creado Por: Bruno Pérez
+
 https://dsaw-2025-i.github.io/bonus-primer-corte-BrunoPMerino/
 
 Esta tarea consiste en crear una aplicación de lista de tareas utilizando HTML, CSS y JavaScript. La aplicación debe ser capaz de crear, eliminar y marcar tareas como completadas. Además, se espera que el diseño sea responsive y se adapte correctamente a las medidas de dispositivos móviles, tablets y desktops.
